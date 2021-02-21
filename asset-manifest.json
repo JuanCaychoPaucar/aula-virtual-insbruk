@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/aula-virtual-insbruk/static/css/main.b6f3fc96.chunk.css",
-    "main.js": "/aula-virtual-insbruk/static/js/main.3df26f5b.chunk.js",
-    "main.js.map": "/aula-virtual-insbruk/static/js/main.3df26f5b.chunk.js.map",
+    "main.js": "/aula-virtual-insbruk/static/js/main.cc890cf8.chunk.js",
+    "main.js.map": "/aula-virtual-insbruk/static/js/main.cc890cf8.chunk.js.map",
     "runtime-main.js": "/aula-virtual-insbruk/static/js/runtime-main.42ad7f7d.js",
     "runtime-main.js.map": "/aula-virtual-insbruk/static/js/runtime-main.42ad7f7d.js.map",
     "static/js/2.99132451.chunk.js": "/aula-virtual-insbruk/static/js/2.99132451.chunk.js",
@@ -49,6 +49,6 @@
     "static/js/runtime-main.42ad7f7d.js",
     "static/js/2.99132451.chunk.js",
     "static/css/main.b6f3fc96.chunk.css",
-    "static/js/main.3df26f5b.chunk.js"
+    "static/js/main.cc890cf8.chunk.js"
   ]
 }
